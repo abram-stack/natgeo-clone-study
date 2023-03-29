@@ -38,7 +38,7 @@ export default function Home({ articles}) {
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
-        <meta name="article and news" content="article and news" />
+        <meta name="sustainable version website for study purpose" content="sustainable version website for study purpose" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* header element navbar */}
